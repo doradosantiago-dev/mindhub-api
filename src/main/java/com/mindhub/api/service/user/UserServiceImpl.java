@@ -33,6 +33,7 @@ import com.mindhub.api.model.user.User;
 import com.mindhub.api.model.userProfile.UserProfile;
 import com.mindhub.api.repository.user.UserRepository;
 import com.mindhub.api.repository.userProfile.UserProfileRepository;
+import com.mindhub.api.security.JwtService;
 import com.mindhub.api.service.admin.AdminActionService;
 import com.mindhub.api.service.base.GenericServiceImpl;
 import com.mindhub.api.service.notification.NotificationService;
